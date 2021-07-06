@@ -15,6 +15,7 @@
 		2443205F269488DC00951832 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2443205D269488DC00951832 /* LaunchScreen.storyboard */; };
 		2443206726948C7900951832 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2443206626948C7900951832 /* testFile.swift */; };
 		2443206926948CF700951832 /* testFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2443206826948CF700951832 /* testFile2.swift */; };
+		2443206B26948D2600951832 /* testFile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2443206A26948D2600951832 /* testFile3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		24432060269488DC00951832 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2443206626948C7900951832 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
 		2443206826948CF700951832 /* testFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile2.swift; sourceTree = "<group>"; };
+		2443206A26948D2600951832 /* testFile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				24432060269488DC00951832 /* Info.plist */,
 				2443206626948C7900951832 /* testFile.swift */,
 				2443206826948CF700951832 /* testFile2.swift */,
+				2443206A26948D2600951832 /* testFile3.swift */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				2443206926948CF700951832 /* testFile2.swift in Sources */,
 				24432057269488D900951832 /* ViewController.swift in Sources */,
+				2443206B26948D2600951832 /* testFile3.swift in Sources */,
 				2443206726948C7900951832 /* testFile.swift in Sources */,
 				24432053269488D900951832 /* AppDelegate.swift in Sources */,
 				24432055269488D900951832 /* SceneDelegate.swift in Sources */,
