@@ -13,8 +13,6 @@
 		2443205A269488D900951832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24432058269488D900951832 /* Main.storyboard */; };
 		2443205C269488DC00951832 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2443205B269488DC00951832 /* Assets.xcassets */; };
 		2443205F269488DC00951832 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2443205D269488DC00951832 /* LaunchScreen.storyboard */; };
-		2443206726948C7900951832 /* testFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2443206626948C7900951832 /* testFile.swift */; };
-		2443206B26948D2600951832 /* testFile3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2443206A26948D2600951832 /* testFile3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +24,6 @@
 		2443205B269488DC00951832 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2443205E269488DC00951832 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24432060269488DC00951832 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2443206626948C7900951832 /* testFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile.swift; sourceTree = "<group>"; };
-		2443206A26948D2600951832 /* testFile3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testFile3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,8 +63,6 @@
 				2443205B269488DC00951832 /* Assets.xcassets */,
 				2443205D269488DC00951832 /* LaunchScreen.storyboard */,
 				24432060269488DC00951832 /* Info.plist */,
-				2443206626948C7900951832 /* testFile.swift */,
-				2443206A26948D2600951832 /* testFile3.swift */,
 			);
 			path = gitTest;
 			sourceTree = "<group>";
@@ -144,8 +138,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				24432057269488D900951832 /* ViewController.swift in Sources */,
-				2443206B26948D2600951832 /* testFile3.swift in Sources */,
-				2443206726948C7900951832 /* testFile.swift in Sources */,
 				24432053269488D900951832 /* AppDelegate.swift in Sources */,
 				24432055269488D900951832 /* SceneDelegate.swift in Sources */,
 			);
