@@ -58,7 +58,7 @@
 		24432051269488D900951832 /* gitTest */ = {
 			isa = PBXGroup;
 			children = (
-				2443206F2694976E00951832 /* test */,
+				2443206F2694976E00951832 /* test2 */,
 				24432052269488D900951832 /* AppDelegate.swift */,
 				24432054269488D900951832 /* SceneDelegate.swift */,
 				24432056269488D900951832 /* ViewController.swift */,
@@ -70,12 +70,12 @@
 			path = gitTest;
 			sourceTree = "<group>";
 		};
-		2443206F2694976E00951832 /* test */ = {
+		2443206F2694976E00951832 /* test2 */ = {
 			isa = PBXGroup;
 			children = (
 				244320702694977D00951832 /* test1.swift */,
 			);
-			path = test;
+			path = test2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
